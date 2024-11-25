@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+
+
+        <string name="tree_oak">Oak</string>
+        <string name="tree_pine">Pine</string>
+        <string name="tree_maple">Maple</string>
+        <string name="tree_birch">Birch</string>
+        <string name="tree_willow">Willow</string>
+
+        <string name="desc_oak">Strong wood, known for its durability.</string>
+        <string name="desc_pine">Coniferous tree, often used for decoration.</string>
+        <string name="desc_maple">Famous for its beautiful autumn colors.</string>
+        <string name="desc_birch">Known for its smooth and white bark.</string>
+        <string name="desc_willow">Graceful appearance with drooping branches.</string>
+
+
+        <string name="activity_recycler_view">Tree List</string>
+        <string name="activity_recycler_description">Tree Details</string>
+</resources>
